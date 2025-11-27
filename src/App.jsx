@@ -20,11 +20,11 @@ function App() {
     <>
       <BrowserRouter>
         <Header />
-       <ItemsHeader/>
+       {/* <ItemsHeader/> */}
         {/* <Body /> */}
         <Routes>
           <Route path='/' element={<Body />}  />
-          <Route path='/ItemsHeader'  element={ <ItemsHeader/>}/>
+          {/* <Route path='/ItemsHeader'  element={ <ItemsHeader/>}/> */}
           <Route path='/restaurant/:resId' element={<RestaurantMenu/>}/>
           <Route path='/about' element={<About />} />
           <Route path='/contact' element={<Contact/>}/>
