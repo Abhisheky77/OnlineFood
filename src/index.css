@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* .header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px 40px;
+   border-bottom: 1px solid #00bcd4;
+   background-color: white;
+   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+   position: sticky;
+} */
+ 
+/* .logo-img{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.nav-item ul{
+    display: flex;
+    gap: 100px;
+    align-items: center;
+    list-style: none;
+    font-size: larger;
+    font-weight:500;
+
+
+}
+.nav-item ul li{
+    cursor: pointer;
+    transition:color 0.3s ease, transition 0.3s ease;
+}
+
+.nav-item ul li:hover{
+    color: #00bcd4;
+    transform:  scale(1.05);
+} */
+
+
